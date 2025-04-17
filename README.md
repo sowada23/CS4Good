@@ -54,4 +54,4 @@ Python 3.x
 3. Run the Python script:
 
    ```bash
-   python ocr_newspaper.py
+   python main.py
