@@ -31,6 +31,22 @@ Python 3.x
 
 ---
 
+## 🔍 Main Function Explanations ##
+
+- `convert_from_path()`
+: Converts PDF pages to high-resolution color images
+- `cv2.convertScaleAbs()`
+: Enhances contrast and brightness
+- `cv2.fastNlMeansDenoisingColored()`
+: Denoises while preserving color
+- `Image.fromarray()`
+: Converts NumPy array back to PIL image for saving
+- `ocrmypdf.ocr()`
+: Adds an invisible, selectable OCR text layer to the PDF
+
+---
+
+
 ## 🔄 How to Run
 
 1. Place the original scanned newspaper PDF in the `./data` folder.  
