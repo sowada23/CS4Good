@@ -46,6 +46,25 @@ Python 3.x
 
 ---
 
+## Results
+
+<table style="width:100%; margin:auto;">
+  <tr>
+    <th style="text-align:center;">After preparation</th>
+    <th style="text-align:center;">After ocr</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./Output/Output/prepErnestARice.pdf" width="330" />
+    </td>
+    <td align="center">
+      <img src="./Output/Output/ErnestARice.pdf" width="330" />
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ## 🔄 How to Run
 
