@@ -48,7 +48,7 @@ Python 3.x
 
 ## Results
 
-<table style="width:100%; margin:auto;">
+<table style="width:10%; margin:auto;">
   <tr>
     <th style="text-align:center;">After preparation</th>
     <th style="text-align:center;">After ocr</th>
