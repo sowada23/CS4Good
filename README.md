@@ -55,10 +55,10 @@ Python 3.x
   </tr>
   <tr>
     <td align="center">
-      <img src="./Output/prepErnestARice.pdf" width="100" />
+      <img src="./Output/prepErnestARice.pdf" width="10" />
     </td>
     <td align="center">
-      <img src="./Output/ErnestARice.pdf" width="100" />
+      <img src="./Output/ErnestARice.pdf" width="10" />
     </td>
   </tr>
 </table>
