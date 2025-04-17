@@ -11,6 +11,9 @@ This project enhances the readability and text extraction capability of scanned 
 ✅ Image reassembly into a PDF while maintaining full color  
 ✅ Text-layer embedding using ocrmypdf  
 ✅ Searchable and selectable final PDF output
+⚠️ Note: You should download output pdf files to try text extraction
+
+
 
 ---
 
